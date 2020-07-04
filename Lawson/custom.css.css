@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            h1{
+                text-align: justify;
+                font-size: 30px;
+
+                color: #0000ff;
+            }
+            p{
+                background-color: burlywood;
+                text-align: center;
+                color:blueviolet;
+            }
+        </style>
+    </head>
+    <body>
+            <h1>css styles</h1>
+            <p>
+            What are HTML color codes?
+Color codes are ways of representing the colors we see everyday 
+in a format that a computer can interpret and display. 
+Commonly used in websites and other software applications, 
+there are a variety of formats, including Hex color codes, 
+RGB and HSL values, and HTML color names, amongst others.
+            </p>
+    
+    </body>
+</html>
